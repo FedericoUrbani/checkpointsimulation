@@ -1,0 +1,4 @@
+{'i':('il')}
+{'c':('cane','cammina')}
+{'p':('per')}
+{'s':('strada.')}
